@@ -1,2 +1,9 @@
 */data/*
+*/model/*
 */.ipynb_checkpoints/*
+.DS_Store
+*.csv
+*.tsv
+*/lear/*
+*.tfevents
+*.json
